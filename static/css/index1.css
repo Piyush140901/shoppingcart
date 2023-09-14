@@ -1,0 +1,12 @@
+body{
+    background-image: url("./images/bg3.png");
+    background-repeat: no-repeat;
+    background-size: 1400px 650px;
+}
+
+.container{
+    text-align: center;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: 200px;
+}
